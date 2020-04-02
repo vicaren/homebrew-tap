@@ -9,7 +9,7 @@ class VaporBeta < Formula
   stable do
     version "18.0.0-beta.28"
     url "https://github.com/vapor/toolbox/archive/#{version}.tar.gz"
-    sha256 "3f031f885fc4cfac9cabb6cb86124ad1283cd75ce58bc5804774c04af45e6d03"
+    sha256 "51fab90b1c2218a6a629752f7c5ee48a0051ca3ce7c27af1f97c01cf8c470bd4"
   end
 
   def install
